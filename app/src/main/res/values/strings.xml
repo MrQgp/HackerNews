@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+    <string name="label_top_story">Top Stories</string>
+    <string name="label_comment">Comments</string>
+</resources>
